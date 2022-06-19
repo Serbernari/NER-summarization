@@ -5,6 +5,8 @@ This repositiry contains code with demonstarion of MNELM (Masked Named Entity La
 
 MNEML forces neuarl network to concentrate more on named entities during it's pretraining phase, which helps increase precission and accuracy of named entity inclusion in generated summaries.
 
+<img src="example.png" width="500">
+
 ### Repository structure
 
 * SCIERC_NER.ipynb - creating and training of RoBERTa NER model on the SCIERC dataset
