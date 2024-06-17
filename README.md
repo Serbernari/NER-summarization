@@ -21,3 +21,5 @@ MNEML forces neural network to concentrate more on named entities during its pre
 * SCIERC_NER.ipynb - creating and training of RoBERTa NER model on the SCIERC dataset
 * bart_pretrain.ipynb - MNELM pretraining of BART model with following summarization fine-tuning
 * bart.ipynb - example of working with CNN summarization dataset
+
+![image](https://github.com/Serbernari/NER-summarization/assets/30036289/e7b9f9c1-dc2c-451c-9a22-4b686db7e729)
