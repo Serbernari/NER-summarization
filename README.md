@@ -9,6 +9,13 @@ MNEML forces neural network to concentrate more on named entities during its pre
 
 <img src="example.png" width="500">
 
+
+## Features
+- **Custom Pretraining Objective:** Enhances model attention on named entities with novel MLNEM learning task.
+- **Named Entity Recognition:** Uses RoBERTa for NER.
+- **Abstractive Summarization:** Utilizes BART for summarization tasks.
+- **Improved Precision and Recall:** Higher named entity inclusion compared to standard masked language models.
+
 ### Repository structure
 
 * SCIERC_NER.ipynb - creating and training of RoBERTa NER model on the SCIERC dataset
