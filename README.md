@@ -7,9 +7,6 @@ This repositiry contains code with demonstarion of MNELM (Masked Named Entity La
 
 MNEML forces neural network to concentrate more on named entities during its pretraining phase, which helps increase precision and accuracy of named entity inclusion in the generated summaries.
 
-<img src="example.png" width="500">
-
-
 ## Features
 - **Custom Pretraining Objective:** Enhances model attention on named entities with novel MLNEM learning task.
 - **Named Entity Recognition:** Uses RoBERTa for NER.
